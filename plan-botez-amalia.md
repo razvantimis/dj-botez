@@ -89,8 +89,22 @@ Aici adăugăm piesele pe măsură ce le găsim. Le repartizăm pe segmente la f
 | 72 | Ed Sheeran | Shape of You | 3:53 | Seg. 6 — Petrecere hard | dance-pop global hit |
 | 73 | Ed Sheeran | Perfect | 4:23 | Seg. 3 — La masă | baladă romantică |
 | 74 | Ed Sheeran | Photograph | 4:19 | Seg. 3 — La masă | baladă emoționantă |
+| 75 | Alex Warren | Ordinary | 3:07 | Seg. 3 — La masă | baladă pop viral 2025 |
+| 76 | Natasha Bedingfield | Unwritten (Manny Marroquin Mix) | 4:13 | Seg. 4 — Warm-up ring | pop feel-good, singalong |
+| 77 | The Sways | Someday We Will Dream About... | 3:00 | Seg. 1 — Aperitiv/lounge | indie-folk retro, mellow |
+| 78 | David Guetta feat. Kid Cudi | Memories | 3:31 | Seg. 6 — Petrecere hard | EDM-pop anthem 2000s |
+| 79 | Maroon 5 | Memories | 3:09 | Seg. 3 — La masă | baladă acustică emoționantă |
+| 80 | The Chainsmokers & Coldplay | Something Just Like This | 4:08 | Seg. 4 — Warm-up ring | EDM-pop crossover, toți cântă |
+| 81 | Coldplay | Viva La Vida | 4:02 | Seg. 6 — Petrecere hard | anthem, toți cântă pe refren |
+| 82 | Post Malone & Swae Lee | Sunflower (Spider-Man: Into the Spider-Verse) | 2:38 | Seg. 4 — Warm-up ring | pop feel-good modern |
+| 83 | Post Malone feat. 21 Savage | Rockstar | 3:38 | Seg. 6 — Petrecere hard | hip-hop peak modern |
+| 84 | Post Malone | Circles | 3:35 | Seg. 4 — Warm-up ring | pop-rock crossover, mellow upbeat |
+| 85 | Maroon 5 feat. Cardi B | Girls Like You | 3:56 | Seg. 4 — Warm-up ring | pop radio hit |
+| 86 | Georgiana Lobonț | Fata mea | ~3:45 | Seg. 6 — Petrecere hard | **tematic perfect pentru botez Amalia** — despre fiică |
+| 87 | Carmen | Ziua când m-ai sărutat | ~4:00 | Seg. 6 — Petrecere hard | populară/manea (verifică artist — Carmen Șerban / de la Sălciua?) |
+| 88 | Oana Radu | Când am o zi grea, când am o zi bună | ~3:30 | Seg. 3 — La masă / Seg. 4 | pop RO emoțional |
 
-**Total actual:** ~302 min muzică (~5h 2min). Ai nevoie de **~8h de muzică** pentru eveniment → mai e nevoie de ~3h de piese adăugate.
+**Total actual:** ~352 min muzică (~5h 52min). Ai nevoie de **~8h de muzică** pentru eveniment → mai e nevoie de ~2h de piese adăugate.
 
 ---
 
