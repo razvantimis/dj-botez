@@ -1,6 +1,9 @@
 # Audio files — stored local, never commit (copyright + size)
 muzica/
 
+# Download logs
+download.log
+
 # macOS
 .DS_Store
 
