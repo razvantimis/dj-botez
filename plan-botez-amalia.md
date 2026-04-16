@@ -103,8 +103,33 @@ Aici adăugăm piesele pe măsură ce le găsim. Le repartizăm pe segmente la f
 | 86 | Georgiana Lobonț | Fata mea | ~3:45 | Seg. 6 — Petrecere hard | **tematic perfect pentru botez Amalia** — despre fiică |
 | 87 | Carmen | Ziua când m-ai sărutat | ~4:00 | Seg. 6 — Petrecere hard | populară/manea (verifică artist — Carmen Șerban / de la Sălciua?) |
 | 88 | Oana Radu | Când am o zi grea, când am o zi bună | ~3:30 | Seg. 3 — La masă / Seg. 4 | pop RO emoțional |
+| 89 | Florentin Vlad | Am și fată, și băiat | ~4:00 | Seg. 6 — Petrecere hard | **tematic perfect pentru botez** — despre fiică și fiu |
+| 90 | Enrique Iglesias | Bailando (Spanish Version) | 4:47 | Seg. 4 — Warm-up ring | latino dance hit, party perfect |
+| 91 | Luis Fonsi & Demi Lovato | Échame La Culpa | 2:54 | Seg. 4 — Warm-up ring | latino-pop dance 2017 |
+| 92 | Frații Petreuș | Maramureș, plai cu flori | ~3:30 | Seg. 3 — La masă / Seg. 6 | folklor Maramureș clasic (confirmă artist — Vasi N?) |
+| 93 | Nicolae Furdui Iancu | Așa beau oamenii buni | ~3:30 | Seg. 6 — Petrecere hard | cântec de pahar clasic, Ardeal (versiuni și de Frații Petreuș / Ducu Bertzi) |
+| 94 | Florin Salam | Zana zanelor | 3:52 | Seg. 6 — Petrecere hard | manea iconică Salam |
+| 95 | Denisa | Eu te iubesc, nu fac misto | ~3:30 | Seg. 6 — Petrecere hard | manea clasică 2011 (durată aprox.) |
+| 96 | Florin Salam | Am norocul scris în frunte | 4:04 | Seg. 6 — Petrecere hard | manea hit 2018 (există și versiuni Tzancă/Ștefan Bărbulești) |
+| 97 | Tai Verdes | last day on earth | 2:52 | Seg. 4 — Warm-up ring | indie-pop mellow feel-good 2022 |
+| 98 | PSY | Gangnam Style | 3:39 | Seg. 6 — Petrecere hard | viral anthem 2012, toată lumea face dansul |
+| 99 | Manu Chao | Me Gustas Tú | 3:59 | Seg. 4 — Warm-up ring | latino-folk chill feel-good, clasic |
+| 100 | Bobby McFerrin | Don't Worry, Be Happy | 4:53 | Seg. 1 — Aperitiv/lounge | a cappella feel-good clasic, toate vârstele |
+| 101 | Lil Wayne feat. Static Major | Lollipop | 4:59 | Seg. 6 — Petrecere hard | hip-hop hit 2008 |
+| 102 | Eminem | Without Me | 4:50 | Seg. 6 — Petrecere hard | hip-hop anthem clasic 2002 |
+| 103 | Eminem feat. 50 Cent, Ca$his & Lloyd Banks | You Don't Know | 4:17 | Seg. 6 — Petrecere hard | hip-hop Shady 2006 |
+| 104 | The White Stripes | Seven Nation Army | 3:51 | Seg. 6 — Petrecere hard | rock anthem, stadium singalong |
+| 105 | Maria Tănase | Aseară ți-am luat basma | ~3:00 | Seg. 6 — Petrecere hard | folclor clasic (există versiuni Uddi / Oana Chiţu moderne) |
+| 106 | Dr. Dre feat. Snoop Dogg | Still D.R.E. | 4:30 | Seg. 6 — Petrecere hard | hip-hop iconic, piano riff legendary |
+| 107 | Denisa & Cristian Rizescu | Vino, vino | ~4:00 | Seg. 6 — Petrecere hard | manea clasică, duet (durată aprox.) |
+| 108 | Denisa | Ce mult te iubeam | 4:27 | Seg. 6 — Petrecere hard | manea 2010, baladă emoțională |
+| 109 | Nicolae Guță & Denisa | Glasul tău îl aud mereu | 5:28 | Seg. 6 — Petrecere hard | duet manea clasică 2007 |
+| 110 | 50 Cent feat. Olivia | Candy Shop | 3:29 | Seg. 6 — Petrecere hard | hip-hop hit 2005 |
+| 111 | Denisa & Florin Peste | Dacă pozele ar vorbi | 3:53 | Seg. 6 — Petrecere hard | duet manea emoțional |
+| 112 | Florinel & Ioana | Te iubesc oriunde ai fi | ~4:00 | Seg. 6 — Petrecere hard | duet manea vechi clasic (altă versiune decât #12 Georgiana Lobonț) |
+| 113 | Florin Peste & Mr. Juve | Cine bate la fereastra mea | ~3:30 | Seg. 6 — Petrecere hard | manea 2017 (versiune clasică Benone Sinulescu / Irina Loghin disponibilă) |
 
-**Total actual:** ~352 min muzică (~5h 52min). Ai nevoie de **~8h de muzică** pentru eveniment → mai e nevoie de ~2h de piese adăugate.
+**Total actual:** ~449 min muzică (~7h 29min). Ai nevoie de **~8h de muzică** pentru eveniment → mai e nevoie de ~31min de piese adăugate.
 
 ---
 
