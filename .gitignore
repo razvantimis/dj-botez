@@ -1,0 +1,8 @@
+# Audio files — stored local, never commit (copyright + size)
+muzica/
+
+# macOS
+.DS_Store
+
+# Playwright session artifacts
+.playwright-mcp/
