@@ -109,7 +109,13 @@ else
 fi
 
 # ------------------------------------------------------------------------------
-# 4. Generate playlists
+# 4. Tag metadata (genre, artist, title corect în fișiere)
+# ------------------------------------------------------------------------------
+step "Suprascriere tag-uri metadata (genre, artist, title)"
+python3 tag-muzica.py
+
+# ------------------------------------------------------------------------------
+# 5. Generate playlists
 # ------------------------------------------------------------------------------
 step "Generare playlist-uri (.m3u8)"
 python3 generate-playlists.py
