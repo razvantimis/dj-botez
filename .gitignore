@@ -1,6 +1,9 @@
 # Audio files — stored local, never commit (copyright + size)
 muzica/
 
+# M3U playlists — absolute paths, machine-specific (regenerate local)
+playlists/
+
 # Download logs
 download.log
 
