@@ -26,10 +26,16 @@ def already_downloaded(outdir: Path, stem: str) -> bool:
     return any(outdir.glob(f"{stem}.*"))
 
 
-def download(block: str, idx: int, entry: list, dry: bool) -> bool:
-    artist = entry[0]
-    title = entry[1]
-    explicit_url = entry[2] if len(entry) >= 3 else None
+def download(block: str, idx: int, entry, dry: bool) -> bool:
+    # Suport pentru ambele formate: dict (nou, cu genre) și list (legacy)
+    if isinstance(entry, dict):
+        artist = entry["artist"]
+        title = entry["title"]
+        explicit_url = entry.get("url")
+    else:
+        artist = entry[0]
+        title = entry[1]
+        explicit_url = entry[2] if len(entry) >= 3 else None
 
     outdir = MUZICA / block
     outdir.mkdir(parents=True, exist_ok=True)

@@ -50,10 +50,18 @@ def main():
         m3u_path = PLAYLISTS / f"{block}.m3u8"
         lines = ["#EXTM3U"]
         for i, f in enumerate(files):
-            # Match file index (NN-Artist-Title) with tracks.json order
+            # Suport format dict (nou, cu genre) și list (legacy)
             if i < len(tracks):
-                artist, title = tracks[i][0], tracks[i][1]
+                t = tracks[i]
+                if isinstance(t, dict):
+                    artist = t["artist"]
+                    title = t["title"]
+                    genre = t.get("genre", "")
+                else:
+                    artist, title, genre = t[0], t[1], ""
                 display = f"{artist} — {title}"
+                if genre:
+                    display += f"  [{genre}]"
             else:
                 display = f.stem
             duration = ffprobe_duration(f)
